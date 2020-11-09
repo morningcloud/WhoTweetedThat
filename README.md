@@ -5,10 +5,9 @@ The main goal is to use and evaluate statistical machine learning approaches tha
 Our team was the runner up in this competition.
 
 # Team 
-## Team Name
-Tweetective🕵‍♀
+### Tweetective🕵‍♀
 
-## Team Members
+### Members
 Ghawady, Indah, Waneya. 
 
 # Kaggle Leaderboard Link
